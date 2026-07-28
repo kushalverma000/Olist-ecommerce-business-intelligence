@@ -176,7 +176,8 @@ The report follows a consistent dark-themed executive design with intuitive navi
 
 
 #### Customer Analytics
-<img width="1285" height="720" alt="Customer Analysis" src="https://github.com/user-attachments/assets/ded3fae2-6a06-47e1-8de6-9cd00797e831" />
+<img width="1292" height="722" alt="Customer Analysis" src="https://github.com/user-attachments/assets/728d685f-7ded-4ca6-bb44-86ebd4c4c4a6" />
+
 
 #### Operational Analytics
 
@@ -187,7 +188,8 @@ The report follows a consistent dark-themed executive design with intuitive navi
 <img width="1277" height="712" alt="Seller   Product  Analytics" src="https://github.com/user-attachments/assets/2758723c-911d-42c7-840f-ebec0c71fa72" />
 
 #### Customer Experience Analytics
-<img width="1285" height="720" alt="Customer Analysis" src="https://github.com/user-attachments/assets/76507495-a68a-4d6e-8c3d-250e89823568" />
+<img width="1285" height="717" alt="Customer Experience Analytics" src="https://github.com/user-attachments/assets/905b4c89-da44-4f21-a6a9-2bceef6c5d7c" />
+
 
 ### Dashboard Features
 
