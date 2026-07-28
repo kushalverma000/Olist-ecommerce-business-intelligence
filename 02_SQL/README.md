@@ -3,7 +3,9 @@
 
 ### 01_Database_Setup
 Database creation and setup scripts.
-[00_Creating_database.sql](https://github.com/user-attachments/files/30461700/00_Creating_database.sql)[00_Creating_database.sql](https://github.com/user-attachments/files/30461685/00_Creating_database.sql)# SQL Scripts
+[00_Creating_database.sql](https://github.com/user-attachments/files/30461700/00_Creating_database.sql)[00_Creating_database.sql](https://github.com/user-attachments/files/30461685/00_Creating_database.sql)
+
+# SQL Scripts
 This folder contains all SQL scripts developed during the Business Intelligence project.
 
 
@@ -36,6 +38,7 @@ Scripts used for data validation, cleaning, pre-processing, schema audit, fact a
 
 ### 03_Views
 Reusable SQL views created to simplify business analysis and Power BI reporting.
+
 [vw_customer_purchase_frequency.sql](https://github.com/user-attachments/files/30461862/vw_customer_purchase_frequency.sql)
 
 [vw_customer_revenue.sql](https://github.com/user-attachments/files/30461864/vw_customer_revenue.sql)
